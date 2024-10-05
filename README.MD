@@ -8,6 +8,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
   
 
 ## Project Objective
@@ -102,5 +103,23 @@ Data Manipulation and Analysis:
 **Visualization and Reporting:**
 - Enhanced capability in creating meaningful visualizations to convey data trends effectively.
 - Gained experience in summarizing key findings and drawing actionable insights for business strategy.
+
+[back to top](#videogame-analysis)
+
+## How to Use This Repository
+
+1. **Clone the Repository**
+git clone [https://github.com/realdanizilla/Videogames.git](https://github.com/realdanizilla/Videogames.git)
+
+
+2. **Review Jupyter Notebooks**
+Go through the notebooks for data exploration, sales analysis, and predictive modeling of video game sales trends.
+
+3. **Run Data and Sales Analysis**
+Execute the provided notebooks to understand the data, perform sales analysis, and review conclusions about platform performance.
+
+4. **Extract Insights**
+Use the analysis to explore patterns in game popularity, platform growth/decline, and genre-based sales trends.
+
 
 [back to top](#videogame-analysis)
