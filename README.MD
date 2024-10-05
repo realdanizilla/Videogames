@@ -1,6 +1,20 @@
+# Videogame Analysis
+
+## Table of Contents
+- [Videogame Analysis](#videogame-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [Project Objective](#project-objective)
+  - [Project Structure](#project-structure)
+  - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
+  - [Specific Results and Outcomes](#specific-results-and-outcomes)
+  - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  
+
 ## Project Objective
 
 The objective of this project is to analyze the video game sales data for the online store Ice, which sells video games worldwide. The project aims to identify patterns that determine whether a game will be successful or not. These insights will help the company identify potential hit games and effectively plan advertising campaigns.
+
+[back to top](#videogame-analysis)
 
 ## Project Structure
 
@@ -22,6 +36,7 @@ The objective of this project is to analyze the video game sales data for the on
 - Conducted statistical tests to verify if user ratings are the same between platforms (e.g., Xbox One vs. PC).
 - Tested the hypothesis that user ratings differ between genres, such as Action and Sports.
 
+[back to top](#videogame-analysis)
 
 ## Tools and Techniques Utilized
 Data Manipulation and Analysis:
@@ -34,6 +49,8 @@ Data Manipulation and Analysis:
 - **Statistical Analysis**:
   - Used statistical tests to confirm or refute hypotheses about user ratings and genre preferences.
   - Calculated and interpreted correlations to understand the relationship between reviews and sales.
+
+[back to top](#videogame-analysis)
 
 ## Specific Results and Outcomes
 
@@ -66,7 +83,9 @@ Data Manipulation and Analysis:
 - **Genre Targeting**: Action and Shooter games have the highest sales potential across regions, but localized campaigns in Japan should focus on Role-Playing games to match local preferences.
 - **Marketing Strategies**: Emphasizing high critic scores in marketing campaigns can help boost game sales, especially for new releases on popular platforms.
 
-## What I Have Learned From This Project (Skills and Competences)
+[back to top](#videogame-analysis)
+
+## What I Have Learned From This Project
 
 **Data Cleaning and Preparation:**
 - Skills in processing real-world datasets, managing missing data, and ensuring data consistency for analysis.
@@ -83,3 +102,5 @@ Data Manipulation and Analysis:
 **Visualization and Reporting:**
 - Enhanced capability in creating meaningful visualizations to convey data trends effectively.
 - Gained experience in summarizing key findings and drawing actionable insights for business strategy.
+
+[back to top](#videogame-analysis)
